@@ -8,7 +8,7 @@ This package contains all files/scripts necessary to run the Vehicle Lifecycle C
 All of these files come together as a web browser based tool.  Designed to be used from our GitHub hosted website, the tool can also be run locally, though some computer security issues may limit it's functionality offline.
 
 # Installation
-The tool can be accessed without any installation by going to our [website](https://github.gatech.edu/pages/Keeping-It-On-The-DL/EVEmissionsCalc/).  This is the prefered method to use the tool, which works best in Mozilla Firefox.
+The tool can be accessed without any installation by going to our [website](https://vyshkk.github.io/EV-Emissions-Calculator/).  This is the prefered method to use the tool, which works best in Mozilla Firefox.
 
 Minimal installation is necessary to run the tool locally.  However, some setup must happen before the tool will run properly locally.  Should you wish to run the tool locally, follow the guidelines below.  
 
